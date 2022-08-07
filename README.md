@@ -1,2 +1,2 @@
 # microservices-class
-Used for course assignments
+Favorite food is Thai and Seafood
